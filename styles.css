@@ -21,7 +21,7 @@ header nav{
 }
 
 header nav .nav-right-section{
-    width: 250px;
+    width: 220px;
     height: auto;
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@ header nav .nav-right-section{
 }
 
 .nav-right-section a{
-    margin-right: 10px;
+    margin-right: 20px;
     color: black;
 }
 
