@@ -10,6 +10,7 @@ body{
     font-size: 13px;
 }
 
+/* *************** Estilos de Menú****************** */
 a{
     text-decoration: none;
     cursor: pointer;
@@ -39,15 +40,11 @@ header nav .nav-right-section{
     color: black;
 }
 
-nav .nav-right-section .menu-icon{
-    background-position: center;
-    background-size: contain;
-}
-
 nav .nav-right-section img{
     border-radius: 50%;
     margin-left: 10px;
 }
+/* *************** Fin de estilos de Menú****************** */
 
 section{
 	margin-top: 132px;
