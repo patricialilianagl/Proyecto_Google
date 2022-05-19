@@ -1,0 +1,47 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: white;
+    justify-content: space-between
+}
+
+.logo{
+    display: flex;
+    margin: 0;
+    padding: 25px 30px;
+    font-weight: bold;
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav .nav-right-section{
+    width: 230px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+
+.nav-right-section a{
+    margin-right: 15px;
+    color: black;
+}
